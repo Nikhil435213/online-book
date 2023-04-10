@@ -1,4 +1,4 @@
-# online-banking
+# online-bookstore
 Here are some screenshots of the application:
 ![Screenshot (131)](https://user-images.githubusercontent.com/80334561/200635875-973911ba-9483-46e5-801a-4311c35e7774.png)
 ![Screenshot (132)](https://user-images.githubusercontent.com/80334561/200635882-381780f6-4ae4-424c-bfb8-66c5754eedac.png)
